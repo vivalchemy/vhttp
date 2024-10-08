@@ -1,3 +1,3 @@
-module github.com/JordanDeBeer/jhttp
+module github.com/vivalchemy/vhttp
 
-go 1.22.0
+go 1.22.1
